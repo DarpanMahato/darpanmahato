@@ -1,5 +1,5 @@
 ## Hi there 👋
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=547762" style='border:none;'></iframe>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=547762" style='border:none;'></img>
 
 
 <!--
